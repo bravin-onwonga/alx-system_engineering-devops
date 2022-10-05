@@ -7,3 +7,6 @@ The file 2-bring_me_home contains the script that changes the current working di
 The file 4-listmorefiles list all files in the dir including the hidden ones.
 
 The file 5-listfilesdigitonly displays current directory contents in long format, with user and group IDs displayed numerically and hidden files.
+
+The file 6-firstdirectory make a directory , my_first_directory, in the tmp directory
+
