@@ -12,3 +12,5 @@ The file 6-firstdirectory make a directory , my_first_directory, in the tmp dire
 
 The file 7-movethatfile move the file betty from the directory -/tmp to the directry /tmp/my_first_directory
 
+The file 8-first deletes the file betty from the directory my_first_directory
+
