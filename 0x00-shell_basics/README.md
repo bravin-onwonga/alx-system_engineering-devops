@@ -25,4 +25,13 @@ The file 12-file_type contains a script that prints the type of the file named i
 The file 13-symbolic_link creates  a symbolic link to /bin/ls, named __ls__ in the current working directory
 
 The file 14-copy_html contains scripts that copy html file form working directory to the parent directory.
+
 The file 100-lets_move moves all files beginning with an uppercase letter to the directory /tmp/u.
+
+The file 101-clean_emacs deletes all files in the current working directory that end with the character ~.
+
+
+
+
+
+
