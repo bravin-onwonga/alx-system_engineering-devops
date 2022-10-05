@@ -32,6 +32,8 @@ The file 101-clean_emacs deletes all files in the current working directory that
 
 The file 102-tree creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 
+The file 103-commas  lists all the files and directories of the current directory, separated by commas (,) ; directories names end with (/) ; list files and dir starting with (.) ; digits and letters used to sort. 
+
 
 
 
