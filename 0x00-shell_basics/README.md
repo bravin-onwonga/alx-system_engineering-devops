@@ -34,6 +34,6 @@ The file 102-tree creates the directories welcome/, welcome/to/ and welcome/to/s
 
 The file 103-commas  lists all the files and directories of the current directory, separated by commas (,) ; directories names end with (/) ; list files and dir starting with (.) ; digits and letters used to sort. 
 
-
+The file school.mgc is a magic file can be used with the command file to detect School data files. School data files always contain the string SCHOOL at offset 0
 
 
