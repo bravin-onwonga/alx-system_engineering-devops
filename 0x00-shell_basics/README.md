@@ -10,3 +10,5 @@ The file 5-listfilesdigitonly displays current directory contents in long format
 
 The file 6-firstdirectory make a directory , my_first_directory, in the tmp directory
 
+The file 7-movethatfile move the file betty from the directory -/tmp to the directry /tmp/my_first_directory
+
