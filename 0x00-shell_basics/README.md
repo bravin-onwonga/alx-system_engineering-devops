@@ -23,3 +23,6 @@ The file 11-lists contains a script that lists all files (even ones with names b
 The file 12-file_type contains a script that prints the type of the file named iamafile
 
 The file 13-symbolic_link contains a scripts that creates  a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory
+
+The file 14-copy_html contains scripts that copy html file form working directory to the parent directory
+
