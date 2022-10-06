@@ -25,3 +25,5 @@ File 11-directories_permissions adds execution permissions to all subdirectories
 File 12-directory_permissions makes a dir - my_dir with the permission 751
 
 File 13-change_group change group owner to school for file hello.
+
+File 100-change_owner_and_group changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
