@@ -16,3 +16,4 @@ File 7-everybody adds execution permission rights to the owner, group and other 
 
 File 8-James_Bond sets no permissions to the owner and the group and sets all permissions to the other users.
 
+File 9-John_Doe sets permissions as follows -rwxr-x-wx to the file hello
