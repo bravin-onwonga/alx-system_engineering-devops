@@ -19,3 +19,6 @@ File 8-James_Bond sets no permissions to the owner and the group and sets all pe
 File 9-John_Doe sets permissions as follows -rwxr-x-wx to the file hello.
 
 File 10-mirror_permissions set the mode of the file hello to be similar to that of file olleh.
+
+File 11-directories_permissions adds execution permissions to all subdirectories.
+
