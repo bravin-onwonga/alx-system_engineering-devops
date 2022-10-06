@@ -11,3 +11,5 @@ File 4-empty creates a new empty file named hello.
 File 5-execute gives executions rights to the owner of the file hello.
 
 File 6-multiple_permissions adds executions rights to the file's owner and group, and add read permission to other user.
+
+File 7-everybody adds execution permission rights to the owner, group and other users.
