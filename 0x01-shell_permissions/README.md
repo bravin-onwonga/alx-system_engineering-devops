@@ -22,3 +22,6 @@ File 10-mirror_permissions set the mode of the file hello to be similar to that 
 
 File 11-directories_permissions adds execution permissions to all subdirectories.
 
+File 12-directory_permissions makes a dir - my_dir with the permission 751
+
+
